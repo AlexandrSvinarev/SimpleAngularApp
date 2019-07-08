@@ -1,7 +1,7 @@
 {
-  "name": "movie-app",
+  "name": "simple-angular-app",
   "version": "0.0.0",
-  "author": "Morteza Aghili",
+  "author": "Alexandr Svinarev",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
